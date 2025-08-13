@@ -18,7 +18,6 @@ This repository contains the *frontend* of the platform, developed using *EJS, *
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -117,13 +116,6 @@ git commit -m "Add your feature"
 4. Push and create a Pull Request
 
 
-
-
----
-
-📄 License
-
-This project is licensed under the MIT License – see the LICENSE file for details.
 
 
 ---
